@@ -1,8 +1,24 @@
 # Metasploitable3
 
-Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with [metasploit](https://github.com/rapid7/metasploit-framework).
+[![Build Status](https://travis-ci.org/jocic/AWS.Metasploitable3.svg?branch=master)](https://travis-ci.org/jocic/AWS.Metasploitable3) [![Coverage Status](https://coveralls.io/repos/github/jocic/AWS.Metasploitable3/badge.svg?branch=master)](https://coveralls.io/github/jocic/AWS.Metasploitable3?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23fa45c3ca674a449331462fc24a435a)](https://www.codacy.com/app/jocic/AWS.Metasploitable3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jocic/AWS.Metasploitable3&amp;utm_campaign=Badge_Grade)
+
+Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits. This project is, as you can expect a fork of the original [Metasploitable3](https://github.com/rapid7/metasploitable3) and is intended solely for deploying Metasploitable on AWS.
 
 Metasploitable3 is released under a BSD-style license. See COPYING for more details.
+
+[![Buy Me Coffee](other/assets/buy-me-coffee.png)](https://www.paypal.me/DjordjeJocic)
+
+**Song of the project:** [Grailknights - Pumping Iron Power](https://www.youtube.com/watch?v=qnzurkSGBCs)
+
+## Versioning Scheme
+
+I use a 3-digit [Semantic Versioning](https://semver.org/spec/v2.0.0.html) identifier, for example 1.0.2. These digits have the following meaning:
+
+*   The first digit (1) specifies the MAJOR version number.
+*   The second digit (0) specifies the MINOR version number.
+*   The third digit (2) specifies the PATCH version number.
+
+Complete documentation can be found by following the link above.
 
 ## Quick-start
 
@@ -62,3 +78,9 @@ The wiki has a lot more detail and serves as the main source of documentation. P
 ## Acknowledgements
 The Windows portion of this project was based off of GitHub user [joefitzgerald's](https://github.com/joefitzgerald) [packer-windows](https://github.com/joefitzgerald/packer-windows) project.
 The Packer templates, original Vagrantfile, and installation answer files were used as the base template and built upon for the needs of this project.
+
+## Contribution
+
+Please review the following documents if you are planning to contribute to the project:
+
+*   [License](license.md)
