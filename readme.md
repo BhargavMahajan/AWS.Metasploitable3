@@ -83,4 +83,6 @@ The Packer templates, original Vagrantfile, and installation answer files were u
 
 Please review the following documents if you are planning to contribute to the project:
 
+*   [Contributor Covenant Code of Conduct](code-of-conduct.md)
+*   [Contribution Guidelines](contributing.md)
 *   [License](license.md)
