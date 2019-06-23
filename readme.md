@@ -1,4 +1,4 @@
-# Metasploitable3
+# Metasploitable3 for AWS
 
 [![Build Status](https://travis-ci.org/jocic/AWS.Metasploitable3.svg?branch=master)](https://travis-ci.org/jocic/AWS.Metasploitable3) [![Coverage Status](https://coveralls.io/repos/github/jocic/AWS.Metasploitable3/badge.svg?branch=master)](https://coveralls.io/github/jocic/AWS.Metasploitable3?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23fa45c3ca674a449331462fc24a435a)](https://www.codacy.com/app/jocic/AWS.Metasploitable3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jocic/AWS.Metasploitable3&amp;utm_campaign=Badge_Grade)
 
